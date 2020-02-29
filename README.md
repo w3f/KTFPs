@@ -29,7 +29,7 @@ When a stakeholder wishes to propose a spend from the treasury, they must reserv
 ## :pencil: Process
 
 ### 1. Submit an Off-Chain Proposal
-1. [Fork](./fork) this repository
+1. [Fork](https://github.com/w3f/KTFPs/fork) this repository
 2. In the newly created fork, create a **copy** of the [ktfp-template.md](./Proposals/ktfp-template.md). In other words: In the GitHub web interface, you need to create a new file and copy the content of the [ktfp-template.md](./Proposals/ktfp-template.md) inside the new file. Don't change the template file directly!
 3. Label the file as "proposal_name.md".
 4. Fill out the template with the details of your project.
