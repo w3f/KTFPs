@@ -6,6 +6,7 @@
 * **Authors:** [Name and Email or GitHub Username]
 * **KSM Proposer:** [KSM Address of the Proposer]
 * **KSM Receivers:** [Receiving KSM Address(es)]
+* **Total Amount:** [KSM]
 * **Created:** [yyyy-mm-dd]
 
 ## Summary
