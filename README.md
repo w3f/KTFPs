@@ -44,6 +44,8 @@ Therefore, getting approval by the committee on GitHub should reduce the risk to
 Here is a list of GitHub accounts of council members, to make it easier to see if a council member approved your spending proposal (might be outdated):
 * [FEDERICO](https://github.com/fgimenez)
 * [GAV](https://github.com/gavofyork)
+* [AL SCIENTIST W3F](https://github.com/AlistairStewart)
+* [Chevdor](https://github.com/chevdor)
 * [JACO](https://github.com/jacogr)
 * [SHAWN TABRIZI](https://github.com/shawntabrizi)
 
